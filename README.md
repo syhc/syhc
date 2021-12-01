@@ -2,7 +2,7 @@
 - 🌱 I’m currently a full stack software engineer at [BiblioCommons](https://www.bibliocommons.com), where I contribute to the development of the BiblioWeb and BiblioEmail SaaS products used by public libraries.
 - 👀 I’m enjoy programming frontend user interfaces that are accessible to use.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me at http://www.linkedin.com/in/syhc.
+- 📫 You can reach me at http://www.linkedin.com/in/syhc.
 
 ☀️
 
